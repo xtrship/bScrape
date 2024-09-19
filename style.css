@@ -7,3 +7,52 @@
     box-sizing: border-box; 
 }
 
+body{
+    width: 1440px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.player-profile {
+    width: 1066px;
+    height: 280px;
+    margin-top: 24px;
+    padding: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to bottom, #50935E, #182D1D);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.player-photo, .player-bio, .player-achievements {
+    height: 232px;
+}
+
+.player-photo {
+    width: 352px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.player-photo img{
+    object-fit: contain;
+}
+
+.player-bio {
+    width: 352px;
+    padding-bottom: 16px;
+}
+
+.player-achievements {
+    width: 284px;
+}
+
+
+
