@@ -57,8 +57,10 @@ body{
 }
 
 .player-bio {
-    width: 352px;
+    width: 282px;
+    margin: auto 50px;
     padding-bottom: 16px;
+    color: white;
 }
 
 .player-achievements {
