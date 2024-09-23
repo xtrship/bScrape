@@ -63,6 +63,18 @@ body{
     color: white;
 }
 
+.player-bio h2 {
+    margin-bottom: 16px;
+}
+
+.player-bio p {
+    margin-bottom: 20px;
+}
+
+.player-bio strong {
+    padding-right: 6px;
+}
+
 .player-achievements {
     width: 284px;
 }
