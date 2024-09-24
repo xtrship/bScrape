@@ -30,16 +30,6 @@ body{
     overflow: hidden;
 }
 
-.player-profile #logo {
-    position: absolute;
-    width: auto;
-    height: 280px;
-    left: 700px;
-    top: 22px;
-    z-index: 0;
-    opacity: 0.1;
-}
-
 .player-photo, .player-bio, .player-achievements {
     height: 232px;
 }
@@ -50,10 +40,6 @@ body{
     border-radius: 10px;
     display: flex;
     justify-content: center;
-}
-
-.player-photo img{
-    object-fit: contain;
 }
 
 .player-bio {
@@ -79,6 +65,20 @@ body{
     width: 284px;
 }
 
+.rowAccomplishments {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.champion, .allStar, .allRookie, .allDefense {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 34px;
+    border-radius: 2px;
+}
+
 .champion {
     width: 100%;
     height: 34px;
@@ -87,9 +87,23 @@ body{
     align-items: center;
     background-color: #FFBF00;
     color: #654C00;
+    font-size: 14px;
     font-weight: bold;
     border-radius: 2px;
     z-index: 999;
 }
 
+.allRookie, .allStar{
+    width: 132px;
+    margin: 16px 0;
+    background-color: #fff;
+    color: #373737;
+    font-size: 12px;
+}
 
+.allDefense {
+    width: 132px;
+    background-color: #A55427;
+    color: #fff;
+    font-size: 12px;
+}
