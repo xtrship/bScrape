@@ -66,7 +66,7 @@ body{
     width: 284px;
 }
 
-.rowAccomplishments {
+.rowAccomplishments, .graphContainer{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -161,3 +161,25 @@ body{
             z-index: 1;
             transition: width 0.2s;
         }
+
+.graphContainer{
+    width: 1066px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.careerStats, .shotChart {
+    height: 492px;
+    border: 1px solid #DADADA;
+}
+.careerStats{
+    width: 126px;
+}
+
+.shotChart{
+    width: 866px;
+    border-radius: 2px;
+    border: 3.4px solid #DADADA !important;
+}
+
