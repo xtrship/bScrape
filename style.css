@@ -125,43 +125,6 @@ body{
     position: relative;
 }
 
-/* Slider thumb styling */
-        .slider::-webkit-slider-thumb {
-            -webkit-appearance: none;
-            appearance: none;
-            width: 20px;
-            height: 20px;
-            background: #000;
-            border-radius: 50%;
-            cursor: pointer;
-            position: relative;
-            z-index: 2;
-        }
-
-        /* Slider thumb styling for Firefox */
-        .slider::-moz-range-thumb {
-            width: 20px;
-            height: 20px;
-            background: #000;
-            border-radius: 50%;
-            cursor: pointer;
-            position: relative;
-            z-index: 2;
-        }
-
-        /* Black background effect as the slider moves */
-        .slider::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            height: 10px;
-            background: #000;
-            border-radius: 5px;
-            z-index: 1;
-            transition: width 0.2s;
-        }
-
 .graphContainer{
     width: 1066px;
     display: flex;
@@ -178,8 +141,46 @@ body{
 }
 
 .shotChart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 866px;
     border-radius: 2px;
     border: 3.4px solid #DADADA !important;
 }
 
+.teamsPlayedFor {
+    margin-top: 38px;
+    width: 284px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.BNets, .NJN, .Lakers, .Bucks {
+    height: 60px;
+    width: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 24px;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+.NJN {
+    background-color: #253485;
+}
+
+.BNets {
+    background-color: #000;
+}
+
+.Lakers {
+    background: linear-gradient(150deg, #FFF50A, #6722F9);
+}
+
+.Bucks {
+    background: linear-gradient(150deg, #50935E, #000);
+}
