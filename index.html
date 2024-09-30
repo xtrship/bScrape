@@ -57,11 +57,59 @@
     </div>
     <!--Shot Chart and Career stats below-->
     <div class="graphContainer">
-        <div class="careerStats"></div>
+        <div class="careerStats">
+            <div id="grey">
+                <p>PPG</p>
+            </div>
+            <div id="white">
+                <p>12.5</p>
+            </div>
+            <div id="grey">
+                <p>RPG</p>
+            </div>
+            <div id="white">
+                <p>5.2</p>
+            </div>
+            <div id="grey">
+                <p>APG</p>
+            </div>
+            <div id="white">
+                <p>1.6</p>
+            </div>
+            <div id="grey">
+                <p>FG%</p>
+            </div>
+            <div id="white">
+                <p>48.5</p>
+            </div>
+            <div id="grey">
+                <p>3PT%</p>
+            </div>
+            <div id="white">
+                <p>36.6</p>
+            </div>
+            <div id="grey">
+                <p>FT%</p>
+            </div>
+            <div id="white">
+                <p>82.1</p>
+            </div>
+        </div>
         <div class="shotChart">
             <img src="assets/HALFCOURT.svg" alt="" srcset="">
         </div>
     </div>
     <script src="hoops.js"></script>
+    <script>
+
+        const slider = document.querySelector('.slider');
+
+        slider.addEventListener('input', function() {
+            const value = (this.value - this.min) / (this.max - this.min) * 100;
+            this.style.background = `linear-gradient(to right, black ${value}%, white ${value}%)`;
+        });
+
+
+    </script>
 </body>
 </html>
