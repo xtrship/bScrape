@@ -1,0 +1,581 @@
+[
+    {
+      "year": "2009",
+      "games": [
+        {
+          "date": "2008-11-18",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200811180NJN.html"
+        },
+        {
+          "date": "2008-12-10",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200812100NJN.html"
+        },
+        {
+          "date": "2008-12-27",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200812270CHA.html"
+        },
+        {
+          "date": "2009-01-15",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200901150NJN.html"
+        },
+        {
+          "date": "2009-02-04",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200902040WAS.html"
+        },
+        {
+          "date": "2009-03-03",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200903030MIL.html"
+        },
+        {
+          "date": "2009-03-22",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200903220NJN.html"
+        },
+        {
+          "date": "2009-04-11",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200904110NJN.html"
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "games": [
+        {
+          "date": "2009-11-14",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200911140MIA.html"
+        },
+        {
+          "date": "2009-12-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200912060NYK.html"
+        },
+        {
+          "date": "2009-12-26",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/200912260NJN.html"
+        },
+        {
+          "date": "2010-01-18",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201001180LAC.html"
+        },
+        {
+          "date": "2010-02-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201002060DET.html"
+        },
+        {
+          "date": "2010-03-03",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201003030NJN.html"
+        },
+        {
+          "date": "2010-03-22",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201003220NJN.html"
+        },
+        {
+          "date": "2010-04-10",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201004100IND.html"
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "games": [
+        {
+          "date": "2010-11-15",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201011150LAC.html"
+        },
+        {
+          "date": "2010-12-03",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201012030CHA.html"
+        },
+        {
+          "date": "2010-12-22",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201012220NOH.html"
+        },
+        {
+          "date": "2011-01-15",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201101150POR.html"
+        },
+        {
+          "date": "2011-02-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201102020NJN.html"
+        },
+        {
+          "date": "2011-02-28",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201102280NJN.html"
+        },
+        {
+          "date": "2011-03-23",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201103230CLE.html"
+        },
+        {
+          "date": "2011-04-10",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201104100TOR.html"
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "games": [
+        {
+          "date": "2012-01-09",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201201090NJN.html"
+        },
+        {
+          "date": "2012-01-27",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201201270CLE.html"
+        },
+        {
+          "date": "2012-02-15",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201202150NJN.html"
+        },
+        {
+          "date": "2012-03-07",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201203070NJN.html"
+        },
+        {
+          "date": "2012-03-24",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201203240NJN.html"
+        },
+        {
+          "date": "2012-04-13",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201204130PHI.html"
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "games": [
+        {
+          "date": "2012-11-21",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201211210GSW.html"
+        },
+        {
+          "date": "2012-12-11",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201212110BRK.html"
+        },
+        {
+          "date": "2012-12-29",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201212290BRK.html"
+        },
+        {
+          "date": "2013-01-18",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201301180BRK.html"
+        },
+        {
+          "date": "2013-02-08",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201302080WAS.html"
+        },
+        {
+          "date": "2013-03-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201303020CHI.html"
+        },
+        {
+          "date": "2013-03-24",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201303240PHO.html"
+        },
+        {
+          "date": "2013-04-14",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201304140TOR.html"
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "games": [
+        {
+          "date": "2013-11-18",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201311180BRK.html"
+        },
+        {
+          "date": "2013-12-07",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201312070MIL.html"
+        },
+        {
+          "date": "2013-12-28",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201312280IND.html"
+        },
+        {
+          "date": "2014-01-21",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201401210BRK.html"
+        },
+        {
+          "date": "2014-02-12",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201402120BRK.html"
+        },
+        {
+          "date": "2014-03-07",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201403070BRK.html"
+        },
+        {
+          "date": "2014-04-13",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201404130PHI.html"
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "games": [
+        {
+          "date": "2014-11-14",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201411140MIA.html"
+        },
+        {
+          "date": "2014-12-09",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201412090NJN.html"
+        },
+        {
+          "date": "2014-12-30",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201412300CHI.html"
+        },
+        {
+          "date": "2015-01-10",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201501100IND.html"
+        },
+        {
+          "date": "2015-01-31",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201501310ORL.html"
+        },
+        {
+          "date": "2015-03-17",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201503170BRK.html"
+        },
+        {
+          "date": "2015-03-29",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201503290IND.html"
+        },
+        {
+          "date": "2015-04-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201504060LAC.html"
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "games": [
+        {
+          "date": "2015-11-15",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201511150DEN.html"
+        },
+        {
+          "date": "2015-12-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201512020LAC.html"
+        },
+        {
+          "date": "2015-12-12",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201512120POR.html"
+        },
+        {
+          "date": "2016-01-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201601020NJN.html"
+        },
+        {
+          "date": "2016-01-29",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201601290NJN.html"
+        },
+        {
+          "date": "2016-03-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201603020LAC.html"
+        },
+        {
+          "date": "2016-03-28",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201603280NJN.html"
+        },
+        {
+          "date": "2016-04-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201604060WAS.html"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "games": [
+        {
+          "date": "2016-11-05",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201611050NJN.html"
+        },
+        {
+          "date": "2016-11-12",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201611120NJN.html"
+        },
+        {
+          "date": "2016-11-20",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201611200BOS.html"
+        },
+        {
+          "date": "2016-12-14",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201612140NJN.html"
+        },
+        {
+          "date": "2017-01-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201701020NJN.html"
+        },
+        {
+          "date": "2017-02-01",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201702010IND.html"
+        },
+        {
+          "date": "2017-02-24",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201702240NJN.html"
+        },
+        {
+          "date": "2017-04-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201704020NJN.html"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "games": [
+        {
+          "date": "2017-10-19",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201710190NJN.html"
+        },
+        {
+          "date": "2017-11-08",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201711080WAS.html"
+        },
+        {
+          "date": "2017-11-12",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201711120NJN.html"
+        },
+        {
+          "date": "2018-01-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201801020NJN.html"
+        },
+        {
+          "date": "2018-02-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201802060NJN.html"
+        },
+        {
+          "date": "2018-03-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201803020NJN.html"
+        },
+        {
+          "date": "2018-04-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201804060NJN.html"
+        },
+        {
+          "date": "2018-04-11",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201804110NJN.html"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "games": [
+        {
+          "date": "2018-10-19",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201810190NJN.html"
+        },
+        {
+          "date": "2018-10-20",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201810200NJN.html"
+        },
+        {
+          "date": "2018-12-12",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201812120NJN.html"
+        },
+        {
+          "date": "2018-12-20",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201812200NJN.html"
+        },
+        {
+          "date": "2019-01-08",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201901080NJN.html"
+        },
+        {
+          "date": "2019-01-16",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201901160NJN.html"
+        },
+        {
+          "date": "2019-02-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201902020NJN.html"
+        },
+        {
+          "date": "2019-03-07",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201903070NJN.html"
+        },
+        {
+          "date": "2019-04-07",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201904070NJN.html"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "games": [
+        {
+          "date": "2019-11-01",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201911010NJN.html"
+        },
+        {
+          "date": "2019-12-10",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201912100NJN.html"
+        },
+        {
+          "date": "2019-12-26",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/201912260NJN.html"
+        },
+        {
+          "date": "2020-01-03",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202001030NJN.html"
+        },
+        {
+          "date": "2020-01-10",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202001100NJN.html"
+        },
+        {
+          "date": "2020-01-31",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202001310NJN.html"
+        },
+        {
+          "date": "2020-03-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202003060NJN.html"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "games": [
+        {
+          "date": "2020-12-30",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202012300NJN.html"
+        },
+        {
+          "date": "2021-01-01",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202101010NJN.html"
+        },
+        {
+          "date": "2021-01-11",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202101110NJN.html"
+        },
+        {
+          "date": "2021-01-30",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202101300NJN.html"
+        },
+        {
+          "date": "2021-02-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202102060NJN.html"
+        },
+        {
+          "date": "2021-02-23",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202102230NJN.html"
+        },
+        {
+          "date": "2021-03-01",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202103010NJN.html"
+        },
+        {
+          "date": "2021-04-21",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202104210NJN.html"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "games": [
+        {
+          "date": "2021-10-20",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202110200NJN.html"
+        },
+        {
+          "date": "2021-10-22",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202110220NJN.html"
+        },
+        {
+          "date": "2021-11-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202111020NJN.html"
+        },
+        {
+          "date": "2021-11-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202111060NJN.html"
+        },
+        {
+          "date": "2021-11-12",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202111120NJN.html"
+        },
+        {
+          "date": "2021-11-30",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202111300NJN.html"
+        },
+        {
+          "date": "2022-01-03",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202201030NJN.html"
+        },
+        {
+          "date": "2022-01-05",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202201050NJN.html"
+        },
+        {
+          "date": "2022-01-21",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202201210NJN.html"
+        },
+        {
+          "date": "2022-02-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202202020NJN.html"
+        },
+        {
+          "date": "2022-02-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202202060NJN.html"
+        },
+        {
+          "date": "2022-03-20",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202203200NJN.html"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "games": [
+        {
+          "date": "2022-10-19",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202210190NJN.html"
+        },
+        {
+          "date": "2022-10-23",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202210230NJN.html"
+        },
+        {
+          "date": "2022-10-30",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202210300NJN.html"
+        },
+        {
+          "date": "2023-01-04",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202301040NJN.html"
+        },
+        {
+          "date": "2023-01-07",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202301070NJN.html"
+        },
+        {
+          "date": "2023-01-14",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202301140NJN.html"
+        },
+        {
+          "date": "2023-01-16",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202301160NJN.html"
+        },
+        {
+          "date": "2023-01-25",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202301250NJN.html"
+        },
+        {
+          "date": "2023-01-29",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202301290NJN.html"
+        },
+        {
+          "date": "2023-02-02",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202302020NJN.html"
+        },
+        {
+          "date": "2023-02-06",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202302060NJN.html"
+        },
+        {
+          "date": "2023-03-12",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202303120NJN.html"
+        },
+        {
+          "date": "2023-04-09",
+          "link": "https://www.basketball-reference.com/boxscores/shot-chart/202304090NJN.html"
+        }
+      ]
+    }
+  ]

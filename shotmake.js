@@ -1,15 +1,6 @@
 import puppeteer from "puppeteer";
 
-let url = 'https://www.basketball-reference.com/players/l/lopezbr01/gamelog/';
-const years = ['2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023'];
-let seasonURL = [];
-
-// Generate season URLs
-for (let i = 0; i < years.length; i++) {
-    seasonURL.push(url + years[i]);
-}
-
-const gameLink = [];
+let url = "https://www.basketball-reference.com/boxscores/shot-chart/200810290WAS.html";
 
 
 const main = async () => {
@@ -46,6 +37,7 @@ const main = async () => {
                 // Push shotData only if it has at least one value
                 if (Object.keys(shotData).length > 0) {
                     results.push(shotData);
+                    console.log(shotData);
                 }
             });
 
