@@ -31,7 +31,6 @@ const main = async () => {
             console.log(`Processing year: ${yearData.year}`);
             shotData[yearData.year] = [];
             
-            // Get the first MAX_GAMES games or all games if less than MAX_GAMES
             const gamesToProcess = yearData.games.slice(0, MAX_GAMES);
 
             for (const game of gamesToProcess) {
@@ -52,7 +51,6 @@ const main = async () => {
 
                 pageCount++;
 
-                // Get the values for Brook Lopez's makes
                 const brookLopezMakes = await page.evaluate(() => {
                     try {
                         const makesTooltips = document.querySelectorAll('div.tooltip.make[tip*="Brook Lopez"]');
