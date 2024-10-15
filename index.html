@@ -95,21 +95,10 @@
                 <p>82.1</p>
             </div>
         </div>
-        <div class="shotChart">
-            <img src="assets/HALFCOURT.svg" alt="" srcset="">
+        <div class="shotContainer">
+            <div class="shotChart"></div>
         </div>
     </div>
-    <script src="hoops.js"></script>
-    <script>
-
-        const slider = document.querySelector('.slider');
-
-        slider.addEventListener('input', function() {
-            const value = (this.value - this.min) / (this.max - this.min) * 100;
-            this.style.background = `linear-gradient(to right, black ${value}%, white ${value}%)`;
-        });
-
-
-    </script>
+    <script src="hex_pos.js"></script>
 </body>
 </html>

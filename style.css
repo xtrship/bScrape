@@ -160,7 +160,7 @@ body{
     align-items: center;
 }
 
-.careerStats, .shotChart {
+.careerStats {
     height: 492px;
     border: 1px solid #DADADA;
 }
@@ -168,13 +168,21 @@ body{
     width: 126px;
 }
 
-.shotChart{
+.shotContainer{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 866px;
     border-radius: 2px;
-    border: 3.4px solid #DADADA !important;
+    position: relative;
+    background-image: url(/assets/HALFCOURT.svg);
+}
+
+.shotChart {
+    width: 566px;
+    height: 492px;
+    border: 1px solid white !important;
+    margin-left: 45px;
 }
 
 .teamsPlayedFor {
